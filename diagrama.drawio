@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="v_NC7tEduRPVL_LB6Cq7" name="Página-1">
-        <mxGraphModel dx="600" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="596" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -19,8 +19,8 @@
                 <mxCell id="8" value="" style="edgeStyle=none;html=1;fontSize=20;" edge="1" parent="1" source="5" target="7">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="5" value="S= n(n+1)/2" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
-                    <mxGeometry x="260" y="250" width="80" height="80" as="geometry"/>
+                <mxCell id="5" value="S= (n(n+1))/2" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+                    <mxGeometry x="250" y="240" width="100" height="100" as="geometry"/>
                 </mxCell>
                 <mxCell id="10" value="" style="edgeStyle=none;html=1;fontSize=20;" edge="1" parent="1" source="7" target="9">
                     <mxGeometry relative="1" as="geometry"/>
